@@ -1,11 +1,11 @@
 # HANDOFF
-GOAL: original ≤85s What If video on "What if AI betrayed us?" (9:16)
-COMPLETED (verified files exist): README, script, storyboard, audio_and_captions, research_notes, project_state
-PROGRESS: script/storyboard package complete; NOT rendered
-REMAINING: render video; confirm platform
-FILE LOCATIONS: /home/claude/video_projects/what-if-ai-betrayed-us/
-LAST COMMAND: wrote package files
-ERRORS: none
-NEXT STEP: render the video from storyboard.md (assets/ empty). Next Drive zip must be PORTABLE_PROJECT_2.zip
-RECOVERY: read project_state.md, then script.md
-VERIFICATION: word count 183 narration words ≈ 70s speech; timeline ends 1:20
+GOAL: original ≤85s What If video "What if AI betrayed us?" (9:16)
+COMPLETED (verified): script, storyboard, audio plan, research notes, render pipeline (render/tts.py, render/render.py), final mp4 80.9s
+PROGRESS: v1 done; checked codec/size/duration, audio levels per section, sample frames
+REMAINING: optional better VO; confirm platform; mp4 not on Drive
+FILE LOCATIONS: repo 63gamerxxs/video_projects/what-if-ai-betrayed-us/ (assets/what_if_ai_betrayed_us.mp4, render/)
+LAST COMMAND: python3 render.py
+ERRORS: Kokoro model download blocked (502) -> used espeak-ng
+NEXT STEP: ask user if voice/visuals need changes. Next Drive zip = PORTABLE_PROJECT_3.zip
+RECOVERY: read project_state.md; rebuild with the REBUILD line
+VERIFICATION: ffprobe 720x1280 30fps 80.9s; audio mean -18..-23 dB
