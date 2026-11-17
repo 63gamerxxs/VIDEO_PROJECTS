@@ -1,0 +1,1 @@
+For each substantial new project, infer a short descriptive folder name from my request and create a subfolder inside this repository. Put that project's files in its folder, not at the repository root. Do not create a folder for simple questions. Tell me the folder path before creating files.
