@@ -1,0 +1,65 @@
+[
+ {
+  "id": "d1",
+  "start": 6.5,
+  "end": 8.06,
+  "speaker": "phone",
+  "text": "Eli. It's me. Open up."
+ },
+ {
+  "id": "e1",
+  "start": 11.0,
+  "end": 12.07,
+  "speaker": "eli",
+  "text": "I'm... home."
+ },
+ {
+  "id": "d2",
+  "start": 14.5,
+  "end": 15.74,
+  "speaker": "phone",
+  "text": "I forgot my keys."
+ },
+ {
+  "id": "e2",
+  "start": 17.0,
+  "end": 18.45,
+  "speaker": "eli",
+  "text": "Those are my keys."
+ },
+ {
+  "id": "e3",
+  "start": 40.0,
+  "end": 41.3,
+  "speaker": "eli",
+  "text": "Three minutes ahead."
+ },
+ {
+  "id": "d3",
+  "start": 61.0,
+  "end": 63.05,
+  "speaker": "dry",
+  "text": "You left them in the car. Again."
+ },
+ {
+  "id": "e4",
+  "start": 67.0,
+  "end": 68.26,
+  "speaker": "eli",
+  "text": "How do you know that?"
+ },
+ {
+  "id": "d4",
+  "start": 70.0,
+  "end": 72.43,
+  "speaker": "dry",
+  "text": "I'm the one who knocks. You're the one who opens."
+ },
+ {
+  "id": "d5",
+  "start": 76.0,
+  "end": 77.43,
+  "speaker": "dry",
+  "text": "Choose. I already know."
+ }
+]

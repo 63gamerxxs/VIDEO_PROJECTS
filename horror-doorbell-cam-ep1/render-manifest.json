@@ -1,0 +1,57 @@
+{
+ "fps": 30,
+ "width": 1080,
+ "height": 1920,
+ "totalFrames": 2550,
+ "scenes": [
+  {
+   "id": "S1",
+   "start": 0,
+   "end": 149,
+   "status": "rendered"
+  },
+  {
+   "id": "S2",
+   "start": 150,
+   "end": 449,
+   "status": "rendered"
+  },
+  {
+   "id": "S3",
+   "start": 450,
+   "end": 899,
+   "status": "rendered"
+  },
+  {
+   "id": "S4",
+   "start": 900,
+   "end": 1349,
+   "status": "rendered"
+  },
+  {
+   "id": "S5",
+   "start": 1350,
+   "end": 1799,
+   "status": "rendered"
+  },
+  {
+   "id": "S6",
+   "start": 1800,
+   "end": 2249,
+   "status": "rendered"
+  },
+  {
+   "id": "S7",
+   "start": 2250,
+   "end": 2399,
+   "status": "rendered"
+  },
+  {
+   "id": "S8",
+   "start": 2400,
+   "end": 2549,
+   "status": "rendered"
+  }
+ ],
+ "final": "final/doorbell_cam_ep1.mp4"
+}
