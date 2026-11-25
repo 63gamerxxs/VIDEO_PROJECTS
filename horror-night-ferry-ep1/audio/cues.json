@@ -1,0 +1,443 @@
+{
+ "duration": 85,
+ "beds": [
+  {
+   "file": "audio/sfx/drone.wav",
+   "gain_db": -19,
+   "from": 0,
+   "to": 85,
+   "fade": 1.0
+  },
+  {
+   "file": "audio/sfx/room_tone.wav",
+   "gain_db": -27,
+   "from": 0,
+   "to": 85,
+   "fade": 1.0
+  },
+  {
+   "file": "audio/sfx/water_lap.wav",
+   "gain_db": -22,
+   "from": 0,
+   "to": 32,
+   "fade": 1.0
+  },
+  {
+   "file": "audio/sfx/fluorescent.wav",
+   "gain_db": -30,
+   "from": 32,
+   "to": 85,
+   "fade": 1.0
+  }
+ ],
+ "dialogue": [
+  {
+   "file": "voices/L01.wav",
+   "t": 0.2,
+   "gain_db": -2,
+   "pan": 0,
+   "fx": "pa"
+  },
+  {
+   "file": "voices/L02.wav",
+   "t": 3.9,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "none"
+  },
+  {
+   "file": "voices/L03.wav",
+   "t": 6.0,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "room"
+  },
+  {
+   "file": "voices/L04.wav",
+   "t": 8.2,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "room"
+  },
+  {
+   "file": "voices/L05.wav",
+   "t": 10.2,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "none"
+  },
+  {
+   "file": "voices/L06.wav",
+   "t": 12.6,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "room"
+  },
+  {
+   "file": "voices/L07.wav",
+   "t": 14.2,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "room"
+  },
+  {
+   "file": "voices/L08.wav",
+   "t": 17.0,
+   "gain_db": -2,
+   "pan": 0,
+   "fx": "pa"
+  },
+  {
+   "file": "voices/L09.wav",
+   "t": 20.8,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "none"
+  },
+  {
+   "file": "voices/L10.wav",
+   "t": 23.0,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "room"
+  },
+  {
+   "file": "voices/L11.wav",
+   "t": 26.4,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "none"
+  },
+  {
+   "file": "voices/L12.wav",
+   "t": 27.6,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "room"
+  },
+  {
+   "file": "voices/L13.wav",
+   "t": 30.0,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "room"
+  },
+  {
+   "file": "voices/L14.wav",
+   "t": 33.5,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "none"
+  },
+  {
+   "file": "voices/L15.wav",
+   "t": 36.5,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "none"
+  },
+  {
+   "file": "voices/L16.wav",
+   "t": 38.4,
+   "gain_db": -2,
+   "pan": 0,
+   "fx": "pa"
+  },
+  {
+   "file": "voices/L17.wav",
+   "t": 40.4,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "none"
+  },
+  {
+   "file": "voices/L18.wav",
+   "t": 43.5,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "whisper"
+  },
+  {
+   "file": "voices/L19.wav",
+   "t": 46.0,
+   "gain_db": -2,
+   "pan": 0,
+   "fx": "pa"
+  },
+  {
+   "file": "voices/L20.wav",
+   "t": 50.0,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "none"
+  },
+  {
+   "file": "voices/L21.wav",
+   "t": 58.0,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "phone"
+  },
+  {
+   "file": "voices/L22.wav",
+   "t": 63.6,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "phone"
+  },
+  {
+   "file": "voices/L23.wav",
+   "t": 69.8,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "none"
+  },
+  {
+   "file": "voices/L24.wav",
+   "t": 72.0,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "none"
+  },
+  {
+   "file": "voices/L25.wav",
+   "t": 76.2,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "whisper"
+  },
+  {
+   "file": "voices/L26.wav",
+   "t": 78.0,
+   "gain_db": 0,
+   "pan": 0,
+   "fx": "none"
+  }
+ ],
+ "sfx": [
+  {
+   "file": "audio/sfx/impact.wav",
+   "t": 3.3,
+   "gain_db": -3
+  },
+  {
+   "file": "audio/sfx/impact.wav",
+   "t": 17.6,
+   "gain_db": -5
+  },
+  {
+   "file": "audio/sfx/impact.wav",
+   "t": 29.6,
+   "gain_db": -5
+  },
+  {
+   "file": "audio/sfx/impact.wav",
+   "t": 41.0,
+   "gain_db": -4
+  },
+  {
+   "file": "audio/sfx/impact.wav",
+   "t": 52.6,
+   "gain_db": -5
+  },
+  {
+   "file": "audio/sfx/impact.wav",
+   "t": 76.0,
+   "gain_db": -4
+  },
+  {
+   "file": "audio/sfx/impact.wav",
+   "t": 79.6,
+   "gain_db": -9
+  },
+  {
+   "file": "audio/sfx/footstep_tile.wav",
+   "t": 0.2,
+   "gain_db": -13,
+   "pan": 0.1,
+   "repeat": {
+    "every": 0.46,
+    "until": 3.4
+   }
+  },
+  {
+   "file": "audio/sfx/footstep_tile.wav",
+   "t": 9.1,
+   "gain_db": -13,
+   "pan": 0.1,
+   "repeat": {
+    "every": 0.46,
+    "until": 12.9
+   }
+  },
+  {
+   "file": "audio/sfx/footstep_tile.wav",
+   "t": 20.6,
+   "gain_db": -13,
+   "pan": 0.1,
+   "repeat": {
+    "every": 0.46,
+    "until": 26.0
+   }
+  },
+  {
+   "file": "audio/sfx/footstep_tile.wav",
+   "t": 30.2,
+   "gain_db": -13,
+   "pan": 0.1,
+   "repeat": {
+    "every": 0.46,
+    "until": 31.8
+   }
+  },
+  {
+   "file": "audio/sfx/footstep_tile.wav",
+   "t": 32.2,
+   "gain_db": -13,
+   "pan": 0.1,
+   "repeat": {
+    "every": 0.46,
+    "until": 37.2
+   }
+  },
+  {
+   "file": "audio/sfx/footstep_tile.wav",
+   "t": 50.6,
+   "gain_db": -13,
+   "pan": 0.1,
+   "repeat": {
+    "every": 0.46,
+    "until": 52.9
+   }
+  },
+  {
+   "file": "audio/sfx/footstep_carpet.wav",
+   "t": 53.5,
+   "gain_db": -13,
+   "pan": 0.1,
+   "repeat": {
+    "every": 0.46,
+    "until": 55.4
+   }
+  },
+  {
+   "file": "audio/sfx/door_creak.wav",
+   "t": 8.4,
+   "gain_db": -12,
+   "pan": 0.3
+  },
+  {
+   "file": "audio/sfx/door_creak.wav",
+   "t": 52.4,
+   "gain_db": -8,
+   "pan": 0
+  },
+  {
+   "file": "audio/sfx/door_slam.wav",
+   "t": 32.1,
+   "gain_db": -14,
+   "pan": 0
+  },
+  {
+   "file": "audio/sfx/whoosh.wav",
+   "t": 3.2,
+   "gain_db": -12,
+   "pan": 0
+  },
+  {
+   "file": "audio/sfx/static_burst.wav",
+   "t": 29.6,
+   "gain_db": -16,
+   "pan": 0
+  },
+  {
+   "file": "audio/sfx/breath_low.wav",
+   "t": 44.6,
+   "gain_db": -10,
+   "pan": 0
+  },
+  {
+   "file": "audio/sfx/breath_low.wav",
+   "t": 47.0,
+   "gain_db": -11,
+   "pan": 0
+  },
+  {
+   "file": "audio/sfx/heartbeat.wav",
+   "t": 44.7,
+   "gain_db": -9,
+   "pan": 0
+  },
+  {
+   "file": "audio/sfx/cloth.wav",
+   "t": 43.8,
+   "gain_db": -12,
+   "pan": 0
+  },
+  {
+   "file": "audio/sfx/phone_buzz.wav",
+   "t": 55.4,
+   "gain_db": -9,
+   "pan": 0
+  },
+  {
+   "file": "audio/sfx/notif.wav",
+   "t": 55.6,
+   "gain_db": -12,
+   "pan": 0
+  },
+  {
+   "file": "audio/sfx/notif.wav",
+   "t": 63.6,
+   "gain_db": -12,
+   "pan": 0
+  },
+  {
+   "file": "audio/sfx/notif.wav",
+   "t": 69.4,
+   "gain_db": -12,
+   "pan": 0
+  },
+  {
+   "file": "audio/sfx/tap.wav",
+   "t": 66.0,
+   "gain_db": -14,
+   "pan": 0,
+   "repeat": {
+    "every": 0.22,
+    "until": 68.0
+   }
+  },
+  {
+   "file": "audio/sfx/riser.wav",
+   "t": 72.0,
+   "gain_db": -14,
+   "pan": 0
+  },
+  {
+   "file": "audio/sfx/whisper_sting.wav",
+   "t": 76.0,
+   "gain_db": -10,
+   "pan": 0
+  },
+  {
+   "file": "audio/sfx/drip.wav",
+   "t": 38.0,
+   "gain_db": -14,
+   "pan": -0.4
+  },
+  {
+   "file": "audio/sfx/drip.wav",
+   "t": 60.5,
+   "gain_db": -18,
+   "pan": 0.4
+  },
+  {
+   "file": "audio/sfx/scrape.wav",
+   "t": 49.9,
+   "gain_db": -14,
+   "pan": 0
+  }
+ ],
+ "duck_db": -7
+}

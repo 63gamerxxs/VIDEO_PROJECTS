@@ -1,0 +1,16 @@
+{
+  "segments": [
+    {
+      "file": "video_0000-2549.mp4",
+      "frames": [
+        0,
+        2549
+      ],
+      "preview": false,
+      "scale": 0.6667,
+      "episode": "episode.js",
+      "done": true,
+      "at": "2026-11-25T02:22:13.893Z"
+    }
+  ]
+}
